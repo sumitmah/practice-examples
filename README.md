@@ -1,4 +1,4 @@
-# practice-exacmples
+# practice-examples
 
 FIXME: description
 
@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar practice-exacmples-0.1.0-standalone.jar [args]
+    $ java -jar practice-examples-0.1.0-standalone.jar [args]
 
 ## Options
 

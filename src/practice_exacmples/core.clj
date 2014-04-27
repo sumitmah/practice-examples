@@ -1,4 +1,4 @@
-(ns practice-exacmples.core
+(ns practice-examples.core
   (:gen-class))
 
 (defn -main

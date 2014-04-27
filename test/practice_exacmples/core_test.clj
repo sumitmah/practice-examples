@@ -1,6 +1,6 @@
-(ns practice-exacmples.core-test
+(ns practice-examples.core-test
   (:require [clojure.test :refer :all]
-            [practice-exacmples.core :refer :all]))
+            [practice-examples.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
